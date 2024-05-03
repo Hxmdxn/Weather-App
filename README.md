@@ -1,5 +1,6 @@
 # Weather-App
-
+Shoutout to Great Stack Video, Great tutorial!
+https://www.youtube.com/watch?v=MIYQR-Ybrn4&ab_channel=GreatStack
 **Project Summary**
 
 Weather App
